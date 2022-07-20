@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mattkorczynski
 - 👀 I’m interested in data processing.
-- 🌱 I’m currently growing up with Python
+- 🌱 I’m currently growing up with Python, Rust and C#
 - 📫 How to reach me -> korczynski.mateusz at gmail servers
 
 <!---
