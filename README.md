@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @mattkorczynski
-- 👀 I’m interested in data processing.
-- 🌱 I’m currently growing up with Python, Rust and C#
-- 📫 How to reach me -> korczynski.mateusz at gmail servers
+
+👋 I’m Matt Korczynski
+
+👀 My interests are hanging around data processing and analyzing. I'm trying to uncover what is hidden in ground and underwater using waves.
+
+🌱 I’m currently growing up with Python, Rust and C#.
+
+📫 How to reach me -> matt.korczynski at gmail servers
+
 
 <!---
 mattkorczynski/mattkorczynski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
