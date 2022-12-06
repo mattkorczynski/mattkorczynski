@@ -13,5 +13,5 @@ mattkorczynski/mattkorczynski is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=mattkorczynski&layout=compact)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=mattkorczynski&layout=compact&langs_count=8)
 
