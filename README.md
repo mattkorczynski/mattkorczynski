@@ -1,5 +1,5 @@
 
-👋 I’m Matt Korczynski - currently operating in Wroclaw 🇵🇱 . Nevertheless, I have been writting code in many other places - 🇫🇮 🇸🇪 🇨🇭
+👋 I’m Matt Korczynski - currently operating in Wroclaw 🇵🇱 . I have been writting code in many other interesting places - 🇫🇮 🇸🇪 🇨🇭
 
 Most of my projects are private. 
 Public part of my repo mainly consists of playing results with different technologies or basement projects.
