@@ -1,11 +1,14 @@
 
-👋 I’m Matt Korczynski
+👋 I’m Matt Korczynski - currently operating in Wroclaw 🇵🇱 . Nevertheless, I have been writting code in many other places - 🇫🇮 🇸🇪 🇨🇭
 
-👀 My interests are hanging around data processing and analyzing. I'm trying to uncover what is hidden in ground and underwater using waves.
+Most of my projects are private. 
+Public part of my repo mainly consists of playing results with different technologies or basement projects.
 
-🌱 I’m currently growing up with Python, Rust and C#.
+👀 My interests are hanging around data processing and analyzing. 
 
-📫 How to reach me -> matt.korczynski at gmail servers
+🌱 I’m currently growing up with Python and Rust.
+
+📫 How to reach me -> matt.korczynski at gmail servers.
 
 
 <!---
